@@ -64,6 +64,36 @@
 не совсем соответствует цели использования Markdown, которая заключается в создании простого и легко читаемого форматированного 
 текста без необходимости использования HTML.
 
+<h4>Пример:</h4>
+
+```
+Cut:
+<kbd>CTRL</kbd> + <kbd>X</kbd>
+
+Copy:
+<kbd>CTRL</kbd> + <kbd>C</kbd>
+
+Paste:
+<kbd>CTRL</kbd> + <kbd>V</kbd>
+
+Save:
+<kbd>CTRL</kbd> + <kbd>S</kbd>
+```
+
+<h4>Результат:</h4>
+
+>Cut:
+><kbd>CTRL</kbd> + <kbd>X</kbd>
+>
+>Copy:
+><kbd>CTRL</kbd> + <kbd>C</kbd>
+>
+>Paste:
+><kbd>CTRL</kbd> + <kbd>V</kbd>
+>
+>Save:
+><kbd>CTRL</kbd> + <kbd>S</kbd>
+
 ---
 
 <h2 id="раздел-2">Параграфы и разрывы строк (Paragraphs and line breaks)</h2>
