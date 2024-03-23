@@ -156,25 +156,53 @@
         <th>Shortcode</th>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
+        <td>🥰</td>
+        <td>smiling face with three hearts</td>
         <td><code>&amp;#some;</code></td>
         <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td><code>:smiling_face_with_three_hearts:</code></td>
     </tr>
     <tr>
-        <td>some</td>
+        <td>🤩</td>
         <td>some</td>
         <td><code>&amp;#some;</code></td>
         <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td><code>:star_struck:</code></td>
     </tr>
     <tr>
-        <td>some</td>
+        <td>😗</td>
         <td>some</td>
         <td><code>&amp;#some;</code></td>
         <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td><code>:kissing:</code></td>
+    </tr>
+    <tr>
+        <td>😚</td>
+        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:kissing_closed_eyes:</code></td>
+    </tr>
+    <tr>
+        <td>😍</td>
+        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:heart_eyes:</code></td>
+    </tr>
+    <tr>
+        <td>😘</td>
+        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:kissing_heart:</code></td>
+    </tr>
+    <tr>
+        <td>😙</td>
+        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:kissing_smiling_eyes:</code></td>
     </tr>
 </table>
 
