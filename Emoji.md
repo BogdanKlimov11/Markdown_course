@@ -158,8 +158,8 @@
     <tr>
         <td>🥰</td>
         <td>smiling face with three hearts</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#x1F970;</code></td>
+        <td><code>&amp;#129392;</code></td>
         <td><code>:smiling_face_with_three_hearts:</code></td>
     </tr>
     <tr>
@@ -218,25 +218,46 @@
         <th>Shortcode</th>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>😋</td>
+        <td>face savouring delicious food</td>
+        <td><code>&amp;#x1F60B;</code></td>
+        <td><code>&amp;#128523;</code></td>
+        <td><code>:yum:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>😜</td>
+        <td>face with stuck-out tongue and winking eye</td>
+        <td><code>&amp;#x1F61C;</code></td>
+        <td><code>&amp;#128540;</code></td>
+        <td><code>:stuck_out_tongue_winking_eye:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>😝</td>
+        <td>face with stuck-out tongue and tightly-closed eyes</td>
+        <td><code>&amp;#x1F61D;</code></td>
+        <td><code>&amp;#128541;</code></td>
+        <td><code>:stuck_out_tongue_closed_eyes:</code></td>
+    </tr>
+    <tr>
+        <td>😛</td>
+        <td>face with stuck-out tongue</td>
+        <td><code>&amp;#x1F61B;</code></td>
+        <td><code>&amp;#128539;</code></td>
+        <td><code>:stuck_out_tongue:</code></td>
+    </tr>
+    <tr>
+        <td>🤪</td>
+        <td>crazy face</td>
+        <td><code>&amp;#x1F92A;</code></td>
+        <td><code>&amp;#129322;</code></td>
+        <td><code>:zany_face:</code></td>
+    </tr>
+    <tr>
+        <td>🤑</td>
+        <td>money-mouth face</td>
+        <td><code>&amp;#x1F911;</code></td>
+        <td><code>&amp;#129297;</code></td>
+        <td><code>:money_mouth_face:</code></td>
     </tr>
 </table>
 
