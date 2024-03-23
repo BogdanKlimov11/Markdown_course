@@ -52,12 +52,12 @@
         <li><a href="#раздел-15">Эмоджи (Emoji)</a></li>
 	<ul>
             <li><a href="#подраздел-15.1">Запись в файл (Write to file)</a></li>
-            <li><a href="#подраздел-15.2">Список (List)</a></li>
+            <li><a href="#подраздел-15.2">Общий список (Common list)</a></li>
         </ul>
         <li><a href="#раздел-16">Формулы LaTex (Formulas)</a></li>
 	<ul>
             <li><a href="#подраздел-16.1">Запись в файл (Write to file)</a></li>
-            <li><a href="#подраздел-16.2">Список (List)</a></li>
+            <li><a href="#подраздел-16.2">Общий список (Common list)</a></li>
         </ul>
     </ol>
 </nav>
