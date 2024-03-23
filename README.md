@@ -50,7 +50,15 @@
         <li><a href="#раздел-13">Экранирование (Escaping characters)</a></li>
         <li><a href="#раздел-14">Как использовать Markdown в мессенджерах</a></li>
         <li><a href="#раздел-15">Эмоджи (Emoji)</a></li>
+	<ul>
+            <li><a href="#подраздел-15.1">Запись в файл (Write to file)</a></li>
+            <li><a href="#подраздел-15.2">Список (List)</a></li>
+        </ul>
         <li><a href="#раздел-16">Формулы LaTex (Formulas)</a></li>
+	<ul>
+            <li><a href="#подраздел-16.1">Запись в файл (Write to file)</a></li>
+            <li><a href="#подраздел-16.2">Список (List)</a></li>
+        </ul>
     </ol>
 </nav>
 
@@ -1368,6 +1376,8 @@ console.log(x + y);
 
 <h2 id="раздел-15">Эмодзи (Emoji)</h2>
 
+<h3 id="подраздел-15.1">Запись в файл (Write to file)</h3>
+
 Для вывода эмодзи в Markdown вы можете использовать скопированные эмодзи (т. е. вставить в файл прямо как символ), 
 Unicode-символы или встроенные эмодзи.
 
@@ -1407,11 +1417,15 @@ Unicode-символы или встроенные эмодзи.
 >
 >:blush:
 
+<h3 id="подраздел-15.2">Общий список (Common list)</h3>
+
 Список всех эмодзи сожно посмотреть <a href="https://github.com/BogdanKlimov11/Markdown_course/blob/main/Emoji.md">здесь</a>.
 
 ---
 
 <h2 id="раздел-16">Формулы LaTex (Formulas)</h2>
+
+<h3 id="подраздел-16.1">Запись в файл (Write to file)</h3>
 
 Для использования формул LaTeX в Markdown можно использовать специальные символы и синтаксис, который будет 
 интерпретироваться Markdown-парсером.
@@ -1442,6 +1456,8 @@ $$
 $$
 \int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}
 $$
+
+<h3 id="подраздел-16.2">Общий список (Common list)</h3>
 
 Элементы LaTex можно взять <a href="https://github.com/BogdanKlimov11/Markdown_course/blob/main/LaTex.md">здесь</a>.
 
