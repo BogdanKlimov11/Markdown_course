@@ -164,44 +164,44 @@
     </tr>
     <tr>
         <td>🤩</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
+        <td>star struck</td>
+        <td><code>&amp;#x1F929;</code></td>
+        <td><code>&amp;#129321;</code></td>
         <td><code>:star_struck:</code></td>
     </tr>
     <tr>
         <td>😗</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
+        <td>kissing face</td>
+        <td><code>&amp;#x1F617;</code></td>
+        <td><code>&amp;#128535;</code></td>
         <td><code>:kissing:</code></td>
     </tr>
     <tr>
         <td>😚</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
+        <td>kissing face with closed eyes</td>
+        <td><code>&amp;#x1F61A;</code></td>
+        <td><code>&amp;#128538;</code></td>
         <td><code>:kissing_closed_eyes:</code></td>
     </tr>
     <tr>
         <td>😍</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
+        <td>smiling face with heart-shaped eyes</td>
+        <td><code>&amp;#x1F60D;</code></td>
+        <td><code>&amp;#128525;</code></td>
         <td><code>:heart_eyes:</code></td>
     </tr>
     <tr>
         <td>😘</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
+        <td>face throwing a kiss</td>
+        <td><code>&amp;#x1F618;</code></td>
+        <td><code>&amp;#128536;</code></td>
         <td><code>:kissing_heart:</code></td>
     </tr>
     <tr>
         <td>😙</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
+        <td>kissing face with smiling eyes</td>
+        <td><code>&amp;#x1F619;</code></td>
+        <td><code>&amp;#128537;</code></td>
         <td><code>:kissing_smiling_eyes:</code></td>
     </tr>
 </table>
