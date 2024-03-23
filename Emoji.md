@@ -47,30 +47,100 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td>😀</td>
+        <td>grinning face</td>
+        <td><code>&amp;#x1F600;</code></td>
+        <td><code>&amp;#128512;</code></td>
+        <td><code>:grinning:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td>😄</td>
+        <td>smiling face with open mouth and smiling eyes</td>
+        <td><code>&amp;#x1F604;</code></td>
+        <td><code>&amp;#128516;</code></td>
+        <td><code>:smile:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td>😆</td>
+        <td>smiling face with open mouth and tightly-closed eyes</td>
+        <td><code>&amp;#x1F606;</code></td>
+        <td><code>&amp;#128518;</code></td>
+        <td><code>:laughing:</code><br><code>:satisfied:</code></td>
+    </tr>
+    <tr>
+        <td>🤣</td>
+        <td>rolling on the floor laughing</td>
+        <td><code>&amp;#x1F923;</code></td>
+        <td><code>&amp;#129315;</code></td>
+        <td><code>:rofl:</code></td>
+    </tr>
+    <tr>
+        <td>🙂</td>
+        <td>slightly smiling face</td>
+        <td><code>&amp;#x1F641;</code></td>
+        <td><code>&amp;#128577;</code></td>
+        <td><code>:slightly_smiling_face:</code></td>
+    </tr>
+    <tr>
+        <td>😉</td>
+        <td>winking face</td>
+        <td><code>&amp;#x1F609;</code></td>
+        <td><code>&amp;#128521;</code></td>
+        <td><code>:wink:</code></td>
+    </tr>
+    <tr>
+        <td>😇</td>
+        <td>smiling face with halo</td>
+        <td><code>&amp;#x1F607;</code></td>
+        <td><code>&amp;#128519;</code></td>
+        <td><code>:innocent:</code></td>
+    </tr>
+    <tr>
+        <td>😃</td>
+        <td>smiling face with open mouth</td>
+        <td><code>&amp;#x1F603;</code></td>
+        <td><code>&amp;#128515;</code></td>
+        <td><code>:smiley:</code></td>
+    </tr>
+    <tr>
+        <td>😁</td>
+        <td>grinning face with smiling eyes</td>
+        <td><code>&amp;#x1F601;</code></td>
+        <td><code>&amp;#128513;</code></td>
+        <td><code>:grin:</code></td>
+    </tr>
+    <tr>
+        <td>😅</td>
+        <td>smiling face with open mouth and cold sweat</td>
+        <td><code>&amp;#x1F605;</code></td>
+        <td><code>&amp;#128517;</code></td>
+        <td><code>:sweat_smile:</code></td>
+    </tr>
+    <tr>
+        <td>😂</td>
+        <td>face with tears of joy</td>
+        <td><code>&amp;#x1F602;</code></td>
+        <td><code>&amp;#128514;</code></td>
+        <td><code>:joy:</code></td>
+    </tr>
+    <tr>
+        <td>🙃</td>
+        <td>upside-down face</td>
+        <td><code>&amp;#x1F643;</code></td>
+        <td><code>&amp;#128579;</code></td>
+        <td><code>:upside_down_face:</code></td>
+    </tr>
+    <tr>
+        <td>😊</td>
+        <td>smiling face with smiling eyes</td>
+        <td><code>&amp;#x1F60A;</code></td>
+        <td><code>&amp;#128522;</code></td>
+        <td><code>:blush:</code></td>
     </tr>
 </table>
 
@@ -81,30 +151,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -115,30 +185,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -149,30 +219,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -183,30 +253,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -217,30 +287,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -251,30 +321,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -285,30 +355,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -319,30 +389,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -353,30 +423,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -387,30 +457,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -421,30 +491,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -455,30 +525,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -489,30 +559,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -523,30 +593,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -557,30 +627,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -616,30 +686,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -650,30 +720,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -684,30 +754,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -718,30 +788,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -752,30 +822,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -786,30 +856,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -820,30 +890,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -854,30 +924,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -888,30 +958,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -922,30 +992,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -956,30 +1026,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -990,30 +1060,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1024,30 +1094,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1058,30 +1128,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1092,30 +1162,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1126,30 +1196,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1177,30 +1247,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1211,30 +1281,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1245,30 +1315,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1279,30 +1349,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1313,30 +1383,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1347,30 +1417,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1381,30 +1451,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1415,30 +1485,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1466,30 +1536,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1500,30 +1570,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1534,30 +1604,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1568,30 +1638,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1602,30 +1672,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1636,30 +1706,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1670,30 +1740,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1704,30 +1774,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1758,30 +1828,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1792,30 +1862,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1826,30 +1896,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1860,30 +1930,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1894,30 +1964,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1928,30 +1998,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1962,30 +2032,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -1996,30 +2066,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2030,30 +2100,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2064,30 +2134,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2098,30 +2168,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2146,30 +2216,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2180,30 +2250,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2214,30 +2284,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2248,30 +2318,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2282,30 +2352,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2343,30 +2413,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2377,30 +2447,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2411,30 +2481,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2445,30 +2515,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2479,30 +2549,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2513,30 +2583,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2547,30 +2617,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2581,30 +2651,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2615,30 +2685,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2649,30 +2719,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2683,30 +2753,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2717,30 +2787,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2751,30 +2821,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2785,30 +2855,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2819,30 +2889,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2853,30 +2923,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2887,30 +2957,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2921,30 +2991,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -2978,30 +3048,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3012,30 +3082,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3046,30 +3116,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3080,30 +3150,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3114,30 +3184,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3148,30 +3218,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3182,30 +3252,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3216,30 +3286,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3250,30 +3320,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3284,30 +3354,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3318,30 +3388,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3352,30 +3422,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3386,30 +3456,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3420,30 +3490,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3466,30 +3536,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3500,30 +3570,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3534,30 +3604,30 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
 
@@ -3570,29 +3640,29 @@
     <tr>
         <th>Emoji</th>
         <th>Name</th>
-        <th>Unicode (hexadecimal )</th>
+        <th>Unicode (hexadecimal)</th>
         <th>Unicode (decimal)</th>
         <th>Shortcode</th>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
     <tr>
         <td>some</td>
         <td>some</td>
-        <td>some</td>
-        <td>some</td>
-        <td>some</td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>&amp;#some;</code></td>
+        <td><code>:some:</code></td>
     </tr>
 </table>
