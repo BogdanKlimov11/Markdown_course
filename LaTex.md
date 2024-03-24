@@ -9,6 +9,7 @@
             <li><a href="#fractions-binomials">Fractions and Binomials</a></li>
             <li><a href="#roots">Roots</a></li>
             <li><a href="#parentheses-separators">Parentheses and Separators</a></li>
+            <li><a href="#limits">Limits</a></li>
         </ul>
         <li><a href="#series-integrals">Series and Integrals</a></li>
     	<li><a href="#relation-symbols">Relation Symbols</a></li>
@@ -276,6 +277,26 @@ $$
     <tr>
         <td>$( \big( \Big( \bigg( \Bigg( \Bigg) \bigg) \Big) \big) )$</td>
         <td><code>\left.\frac{x^3}{3}\right|_0^1</code></td>
+    </tr>
+</table>
+
+<!-- Limits -->
+<h5 id="limits">Limits</h5>
+
+Для рядов и интегралов можно указать приделы в корректном формате (без степеней и индексов) с помоштю команды `\limits`, где значения будут указаны 
+выше или ниже символа.
+
+<table>
+    <tr>
+        <td>$\int\limits_a^b$</td>
+        <td><code>\int\limits_a^b</code></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>$\sum\limits_{i=1}^\infty$</td>
+        <td><code>\sum\limits_{i=1}^\infty</code></td>
     </tr>
 </table>
 
