@@ -459,25 +459,88 @@
         <th>Shortcode</th>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>😷</td>
+        <td>face with medical mask</td>
+        <td><code>&amp;#x1F637;</code></td>
+        <td><code>&amp;#128567;</code></td>
+        <td><code>:mask:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>🤒</td>
+        <td>face with thermometer</td>
+        <td><code>&amp;#x1F912;</code></td>
+        <td><code>&amp;#129298;</code></td>
+        <td><code>:face_with_thermometer:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>🤕</td>
+        <td>face with head-bandage</td>
+        <td><code>&amp;#x1F915;</code></td>
+        <td><code>&amp;#129301;</code></td>
+        <td><code>:face_with_head_bandage:</code></td>
+    </tr>
+    <tr>
+        <td>🤢</td>
+        <td>nauseated face</td>
+        <td><code>&amp;#x1F922;</code></td>
+        <td><code>&amp;#129314;</code></td>
+        <td><code>:nauseated_face:</code></td>
+    </tr>
+    <tr>
+        <td>🤮</td>
+        <td>face vomiting</td>
+        <td><code>&amp;#x1F92E;</code></td>
+        <td><code>&amp;#129326;</code></td>
+        <td><code>:vomiting_face:</code></td>
+    </tr>
+    <tr>
+        <td>🤧</td>
+        <td>sneezing face</td>
+        <td><code>&amp;#x1F927;</code></td>
+        <td><code>&amp;#129319;</code></td>
+        <td><code>:sneezing_face:</code></td>
+    </tr>
+    <tr>
+        <td>🥵</td>
+        <td>hot face</td>
+        <td><code>&amp;#x1F975;</code></td>
+        <td><code>&amp;#129397;</code></td>
+        <td><code>:hot_face:</code></td>
+    </tr>
+    <tr>
+        <td>🥶</td>
+        <td>cold face</td>
+        <td><code>&amp;#x1F976;</code></td>
+        <td><code>&amp;#129398;</code></td>
+        <td><code>:cold_face:</code></td>
+    </tr>
+    <tr>
+        <td>🥴</td>
+        <td>woozy face</td>
+        <td><code>&amp;#x1F974;</code></td>
+        <td><code>&amp;#129396;</code></td>
+        <td><code>:woozy_face:</code></td>
+    </tr>
+    <tr>
+        <td>😵</td>
+        <td>ace with crossed-out eyes</td>
+        <td><code>&amp;#x1F635;</code></td>
+        <td><code>&amp;#128565;</code></td>
+        <td><code>:dizzy_face:</code></td>
+    </tr>
+    <tr>
+        <td>😵‍💫</td>
+        <td>face with spiral eyes</td>
+        <td><code>&amp;#x1F635;</code></td>
+        <td><code>&amp;#128565;</code></td>
+        <td><code>:face_with_spiral_eyes:</code></td>
+    </tr>
+    <tr>
+        <td>🤯</td>
+        <td>exploding head</td>
+        <td><code>&amp;#x1F92F;</code></td>
+        <td><code>&amp;#129327;</code></td>
+        <td><code>:exploding_head:</code></td>
     </tr>
 </table>
 
@@ -493,25 +556,18 @@
         <th>Shortcode</th>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>🤠</td>
+        <td>cowboy hat face</td>
+        <td><code>&amp;#x1F920;</code></td>
+        <td><code>&amp;#129312;</code></td>
+        <td><code>:cowboy_hat_face:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
-    </tr>
-    <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>🥳</td>
+        <td>partying face</td>
+        <td><code>&amp;#x1F973;</code></td>
+        <td><code>&amp;#129395;</code></td>
+        <td><code>:partying_face:</code></td>
     </tr>
 </table>
 
@@ -527,26 +583,26 @@
         <th>Shortcode</th>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>😎</td>
+        <td>smiling face with sunglasses</td>
+        <td><code>&amp;#x1F60E;</code></td>
+        <td><code>&amp;#128526;</code></td>
+        <td><code>:sunglasses:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>🤓</td>
+        <td>nerd face</td>
+        <td><code>&amp;#x1F913;</code></td>
+        <td><code>&amp;#129299;</code></td>
+        <td><code>:nerd_face:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
-    </tr>
+        <td>🧐</td>
+        <td>face with monocle</td>
+        <td><code>&amp;#x1F9D0;</code></td>
+        <td><code>&amp;#129488;</code></td>
+        <td><code>:monocle_face:</code></td>
+    </tr> 
 </table>
 
 <!-- Face Concerned -->
