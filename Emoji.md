@@ -273,25 +273,32 @@
         <th>Shortcode</th>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>🤗</td>
+        <td>smiling face with open hands</td>
+        <td><code>&amp;#x1F917;</code></td>
+        <td><code>&amp;#129303;</code></td>
+        <td><code>:hugs:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>🤫</td>
+        <td>shushing face</td>
+        <td><code>&amp;#x1F92B;</code></td>
+        <td><code>&amp;#129323;</code></td>
+        <td><code>:shushing_face:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>🤭</td>
+        <td>face with hand over mouth</td>
+        <td><code>&amp;#x1F92D;</code></td>
+        <td><code>&amp;#129325;</code></td>
+        <td><code>:hand_over_mouth:</code></td>
+    </tr>
+    <tr>
+        <td>🤔</td>
+        <td>thinking face</td>
+        <td><code>&amp;#x1F914;</code></td>
+        <td><code>&amp;#129300;</code></td>
+        <td><code>:thinking:</code></td>
     </tr>
 </table>
 
@@ -307,25 +314,88 @@
         <th>Shortcode</th>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>🤐</td>
+        <td>zipper-mouth face</td>
+        <td><code>&amp;#x1F910;</code></td>
+        <td><code>&amp;#129296;</code></td>
+        <td><code>:zipper_mouth_face:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>😐</td>
+        <td>neutral face</td>
+        <td><code>&amp;#x1F610;</code></td>
+        <td><code>&amp;#128528;</code></td>
+        <td><code>:neutral_face:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>😶</td>
+        <td>face without mouth</td>
+        <td><code>&amp;#x1F636;</code></td>
+        <td><code>&amp;#128566;</code></td>
+        <td><code>:no_mouth:</code></td>
+    </tr>
+    <tr>
+        <td>😏</td>
+        <td>smirking face</td>
+        <td><code>&amp;#x1F60F;</code></td>
+        <td><code>&amp;#128527;</code></td>
+        <td><code>:smirk:</code></td>
+    </tr>
+    <tr>
+        <td>🙄</td>
+        <td>face with rolling eyes</td>
+        <td><code>&amp;#x1F644;</code></td>
+        <td><code>&amp;#128580;</code></td>
+        <td><code>:roll_eyes:</code></td>
+    </tr>
+    <tr>
+        <td>😮‍💨</td>
+        <td>face exhaling</td>
+        <td><code>&amp;#x1F62E;</code></td>
+        <td><code>&amp;#128558;</code></td>
+        <td><code>:face_exhaling:</code></td>
+    </tr>
+    <tr>
+        <td>🤨</td>
+        <td>face with raised eyebrow</td>
+        <td><code>&amp;#x1F928;</code></td>
+        <td><code>&amp;#129320;</code></td>
+        <td><code>:raised_eyebrow:</code></td>
+    </tr>
+    <tr>
+        <td>😑</td>
+        <td>expressionless face</td>
+        <td><code>&amp;#x1F611;</code></td>
+        <td><code>&amp;#128529;</code></td>
+        <td><code>:expressionless:</code></td>
+    </tr>
+    <tr>
+        <td>😶‍🌫️</td>
+        <td>face in clouds</td>
+        <td><code>&amp;#x1F636;</code></td>
+        <td><code>&amp;#128566;</code></td>
+        <td><code>:face_in_clouds:</code></td>
+    </tr>
+    <tr>
+        <td>😒</td>
+        <td>unamused face</td>
+        <td><code>&amp;#x1F612;</code></td>
+        <td><code>&amp;#128530;</code></td>
+        <td><code>:unamused:</code></td>
+    </tr>
+    <tr>
+        <td>😬</td>
+        <td>grimacing face</td>
+        <td><code>&amp;#x1F62C;</code></td>
+        <td><code>&amp;#128556;</code></td>
+        <td><code>:grimacing:</code></td>
+    </tr>
+    <tr>
+        <td>🤥</td>
+        <td>lying face</td>
+        <td><code>&amp;#x1F925;</code></td>
+        <td><code>&amp;#129317;</code></td>
+        <td><code>:lying_face:</code></td>
     </tr>
 </table>
 
@@ -341,25 +411,39 @@
         <th>Shortcode</th>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>😌</td>
+        <td>relieved face</td>
+        <td><code>&amp;#x1F60C;</code></td>
+        <td><code>&amp;#128524;</code></td>
+        <td><code>:relieved:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>😪</td>
+        <td>sleepy face</td>
+        <td><code>&amp;#x1F62A;</code></td>
+        <td><code>&amp;#128554;</code></td>
+        <td><code>:sleepy:</code></td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>some</td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>&amp;#some;</code></td>
-        <td><code>:some:</code></td>
+        <td>😴</td>
+        <td>sleeping face</td>
+        <td><code>&amp;#x1F634;</code></td>
+        <td><code>&amp;#128564;</code></td>
+        <td><code>:sleeping:</code></td>
+    </tr>
+    <tr>
+        <td>😔</td>
+        <td>pensive face</td>
+        <td><code>&amp;#x1F614;</code></td>
+        <td><code>&amp;#128532;</code></td>
+        <td><code>:pensive:</code></td>
+    </tr>
+    <tr>
+        <td>🤤</td>
+        <td>drooling face</td>
+        <td><code>&amp;#x1F924;</code></td>
+        <td><code>&amp;#129316;</code></td>
+        <td><code>:drooling_face:</code></td>
     </tr>
 </table>
 
