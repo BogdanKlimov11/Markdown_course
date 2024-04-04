@@ -1101,11 +1101,11 @@ Markdown позволяет использовать упрощённый вар
 
 >Без подсказки
 >
-><img src="https://github.com/BogdanKlimov11/Markdown_course/assets/136115919/696d22ce-38d7-4c2f-9391-d5a1ef63cd16" alt="Novosibirsk Arena">
+><img src="https://github.com/BogdanKlimov11/Markdown_course/assets/136115919/696d22ce-38d7-4c2f-9391-d5a1ef63cd16" alt="Novosibirsk Arena" width="100%" height="auto">
 >
 >С подсказкой
 >
-><img src="https://github.com/BogdanKlimov11/Markdown_course/assets/136115919/ce26d88f-ca37-4c64-8627-0f237b6ab35d" alt="Bugrinsky Bridge" title="Bridge">
+><img src="https://github.com/BogdanKlimov11/Markdown_course/assets/136115919/ce26d88f-ca37-4c64-8627-0f237b6ab35d" alt="Bugrinsky Bridge" title="Bridge" width="100%" height="auto">
 
 ---
 
