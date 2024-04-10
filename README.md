@@ -1459,7 +1459,7 @@ $$
 
 <h3 id="подраздел-16.2">Общий список (Common list)</h3>
 
-Элементы LaTex можно взять <a href="https://github.com/BogdanKlimov11/Markdown_course/blob/main/LaTex.md">здесь</a>.
+Элементы LaTex можно взять <a href="https://github.com/BogdanKlimov11/LaTex_course">здесь</a>.
 
 ---
 
