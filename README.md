@@ -1,5 +1,7 @@
 <h1 id="top">Справочник по языку разметки Markdown</h1>
 
+<img src="https://github.com/BogdanKlimov11/Markdown_course/assets/136115919/e344037d-9894-4e97-bf32-2becfe10daf2" alt="Markdown logo" title="Markdown" width="100%" height="auto">
+
 ---
 
 <!-- Оглавление -->
