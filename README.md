@@ -1421,7 +1421,7 @@ Unicode-символы или встроенные эмодзи.
 
 <h3 id="подраздел-15.2">Общий список (Common list) <a href="#top">↑top↑</a></h3>
 
-Список всех эмодзи сожно посмотреть <a href="https://github.com/BogdanKlimov11/Useful/blob/main/Unicode/Emoji.md">здесь</a>.
+Список всех эмодзи можно посмотреть <a href="https://emojiterra.com/">здесь</a>.
 
 ---
 
